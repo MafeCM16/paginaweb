@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+  
+    /* paleta de colores */
+    --second-color: rgb(10, 165, 49);
+    --second-color-hover: rgb(50, 211, 90);
+  }
+
+html, body, .container{
+    width: 100%;
+    height: 100%;
+}
